@@ -1,10 +1,10 @@
-Hi 👋 My name is Airowl Gasga
+Hi 👋 Sono Airowl Gasga
 =============================
 
 Junior Full Stack Web Developer
 --------------------
 
-My name is Airowl Gasga, I am 23 years old and I have always been an IT and technology enthusiast. I'm Filipino but I was born and raised (most of my life) in Milan, Italy, I got my Junior Full Stack Web Developer degree from Boolean Careers training course. I am always looking for new things to learn and try to keep myself updated regarding the latest development trends and technologies used.
+Mi chiamo Airowl Gasga, ho 23 anni e sono sempre stato un appassionato di informatica e tecnologia. Sono filippino ma sono nato e cresciuto (per la maggior parte della mia vita) a Milano, Italia, ho conseguito il diploma di Junior Full Stack Web Developer presso il corso di formazione Boolean Careers. Sono sempre alla ricerca di nuove cose da imparare e cerco di tenermi aggiornato sulle ultime tendenze di sviluppo e sulle tecnologie utilizzate.
 
 *   🌍  I'm based in Milan, Italy
 *   🖥️  See my portfolio at [www.airowl.dev](http://airowlgasga.dev)
