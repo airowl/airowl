@@ -7,7 +7,7 @@ Junior Full Stack Web Developer
 Mi chiamo Airowl Gasga, ho 23 anni e sono sempre stato un appassionato di informatica e tecnologia. Sono filippino ma sono nato e cresciuto (per la maggior parte della mia vita) a Milano, Italia, ho conseguito il diploma di Junior Full Stack Web Developer presso il corso di formazione Boolean Careers. Sono sempre alla ricerca di nuove cose da imparare e cerco di tenermi aggiornato sulle ultime tendenze di sviluppo e sulle tecnologie utilizzate.
 
 *   🌍  I'm based in Milan, Italy
-*   🖥️  See my portfolio at [www.airowl.dev](http://airowlgasga.dev)
+*   🖥️  See my portfolio at [www.airowlgasga.dev](http://airowlgasga.dev)
 *   ✉️  You can contact me at [airowl.gasga@gmail.com](mailto:airowl.gasga@gmail.com)
 *   🧠  I'm learning ReactJS, NodeJS and new tecnologies
 *   ⚡  while (alive) { eat(); sleep(); code(); repeat(); }
