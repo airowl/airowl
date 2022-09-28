@@ -1,4 +1,4 @@
-Hi 👋 Sono Airowl Gasga
+Ciao 👋 Sono Airowl Gasga
 =============================
 
 Junior Full Stack Web Developer
