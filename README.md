@@ -9,7 +9,6 @@ Mi chiamo Airowl Gasga, ho 23 anni e sono sempre stato un appassionato di inform
 *   🌍  Vivo a Milan, Italy
 *   🖥️  Questo è il mio sito portfolio [www.airowlgasga.dev](https://airowl-gasga-portfolio.vercel.app/)
 *   ✉️  Potete contattarmi qui [airowl.gasga@gmail.com](mailto:airowl.gasga@gmail.com)
-*   🧠  Sto studiando React.JS e Next.JS
 
 ### Skills
 <p align="left">
