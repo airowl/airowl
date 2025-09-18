@@ -49,7 +49,7 @@ From junior developer to professional: today I develop and maintain the ecommerc
 - 🌱 **Learning**: Cloud technologies, advanced TypeScript patterns and SAAS Business
 
 ## 💻 About Me
-I'm a 24-year-old Filipino developer born and raised in Milan, Italy. My passion for technology and computers has always driven me to learn and stay updated with the latest development trends and technologies used in the industry.
+I'm a 26-year-old Filipino developer born and raised in Milan, Italy. My passion for technology and computers has always driven me to learn and stay updated with the latest development trends and technologies used in the industry.
 
 After graduating from the Boolean Careers Full Stack Web Development bootcamp, I've grown from a junior developer to a professional working on enterprise-level ecommerce solutions that impact thousands of businesses daily.
 
