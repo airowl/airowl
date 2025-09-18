@@ -46,18 +46,12 @@ From junior developer to professional: today I develop and maintain the ecommerc
 - 🛒 **Ecommerce Platform Development** at TeamSystem's Extend CRM
 - 💼 **Helping SMEs** digitalize their sales processes
 - 🧠 **Exploring AI integration** in modern web applications
-- 🌱 **Learning**: Cloud technologies, advanced TypeScript patterns
+- 🌱 **Learning**: Cloud technologies, advanced TypeScript patterns and SAAS Business
 
 ## 💻 About Me
 I'm a 24-year-old Filipino developer born and raised in Milan, Italy. My passion for technology and computers has always driven me to learn and stay updated with the latest development trends and technologies used in the industry.
 
 After graduating from the Boolean Careers Full Stack Web Development bootcamp, I've grown from a junior developer to a professional working on enterprise-level ecommerce solutions that impact thousands of businesses daily.
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airowl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airowl&layout=compact&theme=tokyonight"/>
-</div>
 
 ---
 
