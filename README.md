@@ -9,11 +9,11 @@ Today I build and maintain products at Openapi SpA, an Italian leader in API-as-
 * ✉️ You can contact me at **[airowl.gasga@gmail.com](mailto:airowl.gasga@gmail.com)**
 * 🚀 Solo entrepreneur: building SaaS solutions on the side
 * 🌱 Currently exploring: AI Engineering (RAG, agents, LLM orchestration)
-* 🎯 I'm open to: Remote opportunities | 🇮🇹 🇬🇧
+* 🎯 I'm open to: Remote opportunities
 
 ## 🚀 Current Focus
 
-* 🔌 Building products at Openapi SpA (Laravel 12 + MongoDB + Nuxt)
+* 🔌 Building products at Openapi SpA (Laravel 13 + MongoDB + Nuxt)
 * 💡 Designing and shipping my own SaaS solutions as a solo entrepreneur
 * 🤖 Exploring AI Engineering: RAG systems, agent orchestration, LLM tooling
 * 🌱 Learning: context engineering, advanced TypeScript patterns
